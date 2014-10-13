@@ -1,0 +1,14 @@
+/* TEAM */
+	Desenvolvedor: Iuri Guilherme
+	E-mail: iuri@hush.ai
+	Site: http://iuri.neocities.org
+	Twitter: @aindatenhoconta
+	Github: https://github.com/iuriguilherme
+	Localização: Porto Alegre - RS, Brasil
+
+/* SITE */
+	Última atualização: 2014/10/12
+	Servidor: Debian, Apache
+	Software: Vim, Gedit, Git
+	Código fonte: https://github.com/hiatobr/sos.hi.ato.br
+
