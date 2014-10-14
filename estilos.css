@@ -142,4 +142,6 @@ ul.normal {
 span.vermelho {
 	background-color:#D21D21;
 }
-
+a.share {
+	text-decoration:none;
+}
