@@ -139,4 +139,7 @@ ul.normal {
 .caixa tr.rodape td {
 	border-top-style:solid;
 }
+span.vermelho {
+	background-color:#D21D21;
+}
 
