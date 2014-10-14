@@ -55,18 +55,9 @@ hr {
 }
 .indice li {
 	display:inline-table;
-	padding-top:0.3em;
-	padding-bottom:0.3em;
-	padding-left:0.7em;
-	padding-right:0.7em;
+	padding:1em;
 	background:#C8C8C8;
-	-moz-border-radius:0.1em;
-	-webkit-border-radius:0.1em;
-	-opera-border-radius:0.1em;
-	-khtml-border-radius:0.1em;
-	border-radius:0.1em;
-	-moz-box-shadow:0em 0em 0.7em 0.5em rgba(0,0,0,0.5);
-	-webkit-box-shadow:0em 0em 0.7em 0.5em rgba(0,0,0,0.5);
+	border-radius:1em;
 	box-shadow:0em 0em 0.7em 0.5em rgba(0,0,0,0.5);
 }
 .indice a.vermelho {
@@ -76,6 +67,7 @@ hr {
 	background:#C8C8C8;
 	color:black;
 	text-decoration:none;
+	padding:1em;
 }
 .divisoria {
 	padding:0.5em;
@@ -141,7 +133,4 @@ ul.normal {
 }
 span.vermelho {
 	background-color:#D21D21;
-}
-a.share {
-	text-decoration:none;
 }
