@@ -11,9 +11,11 @@ body {
 	color:#C8C8C8;
 	font-family:"Consolas","Monaco","Lucida Console","Liberation Mono","DejaVu Sans Mono","Bitstream Vera Sans Mono","Courier New", "Monospace";
 	font-weight:bold;
+	text-shadow:#404040 0 0.1em;
 }
 a {
 	color:#C8C8C8;
+	text-shadow:#404040 0 0.1em;
 }
 ul {
 	list-style-type:none;
@@ -67,6 +69,7 @@ hr {
 	background:#C8C8C8;
 	color:black;
 	text-decoration:none;
+	text-shadow:#E4E4E4 0 0.1em;
 	padding:0.2em;
 }
 .divisoria {
@@ -111,6 +114,7 @@ ul.normal {
 	margin:2em;
 	background-color:#C8C8C8;
 	color:black;
+	text-shadow:#E4E4E4 0 0.1em;
 	padding:1em;
 	border-radius:1em;
 }
